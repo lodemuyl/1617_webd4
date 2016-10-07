@@ -7,11 +7,14 @@
 *[ASCII]:                   American Standard Code for Information Interchange
 *[ASP]:                     Active Server Pages
 *[AVD]:                     Android Virtual Device
+*[AWD]:                     Adaptive Web Design
 *[Bash]:                    Bourne-Again Shell
 *[BDD]:                     Behaviour-Driven Development
 *[BIOS]:                    Basic Input/Output System
 *[BOC]:                     Build-Operate-Check
 *[BTW]:                     Belasting over de Toegevoegde Waarde
+*[CERN]:                    European Organization for Nuclear Research
+*[CGR]:                     Composer Global Require
 *[CISC]:                    Complex Instruction Set Computer
 *[CLI]:                     Command-Line Interface
 *[CMS]:                     Content Management System
@@ -36,6 +39,7 @@
 *[DDL]:                     Data Definition Language
 *[DI]:                      Dependency Injection
 *[DML]:                     Data Manipulation Language
+*[DNS]:                     Domain Name System
 *[DOM]:                     Document Object Model
 *[DTD]:                     Document Type Declaration
 *[ES2015]:                  ECMAScript 2015 / ECMA-262 6th Edition
@@ -59,6 +63,8 @@
 *[HTTP]:                    Hypertext Transfer Protocol
 *[HTTPS]:                   Hypertext Transfer Protocol Secure
 *[IA]:                      Information Architecture
+*[IANA]:                    Internet Assigned Numbers Authority
+*[ICANN]:                   Internet Corporation for Assigned Names and Numbers
 *[ID]:                      Identifier
 *[IDE]:                     Integrated Development Environment
 *[IEEE]:                    Institute of Electrical and Electronics Engineers
@@ -68,6 +74,7 @@
 *[IPv4]:                    Internet Protocol version 4
 *[IPv6]:                    Internet Protocol version 6
 *[IoC]:                     Inversion of Control
+*[ISO]:                     International Organization for Standardization
 *[IxD]:                     Interaction Design
 *[JDK]:                     Java SE Development Kit
 *[JPEG]:                    Joint Photographic Experts Group
@@ -76,6 +83,7 @@
 *[JSON-P]:                  JavaScript Object Notation with Padding
 *[JSONP]:                   JavaScript Object Notation with Padding
 *[LTS]:                     Long Term Support
+*[NCSA]:                    National Center for Supercomputing Applications
 *[NFS]:                     Network File System
 *[MIME]:                    Multipurpose Internet Mail Extensions
 *[MV*]:                     Model-View-Whatever
@@ -83,8 +91,10 @@
 *[MVC]:                     Model-View-Controller
 *[MVVM]:                    Model-View-ViewModel
 *[MVW]:                     Model-View-Whatever
+*[NTIA]:                    National Telecommunications & Information Administration
 *[NVM]:                     Node Version Manager
-*[OOP]:                     Objectgeoriënteerd Programmeren
+*[OOCSS]:                   Object-Oriented CSS
+*[OOP]:                     Object-Oriented Programming / Objectgeoriënteerd Programmeren
 *[OPA]:                     One Page Application
 *[ORM]:                     Object-Relational Mapper
 *[PARC]:                    Palo Alto Research Center
@@ -102,6 +112,8 @@
 *[RISC]:                    Reduced Instruction Set Computer
 *[RFC]:                     Request for Comments
 *[RMM]:                     Richardson Maturity Model
+*[RoR]:                     Ruby on Rails
+*[RWD]:                     Responsive Web Design
 *[Sass]:                    Syntactically Awesome Style Sheets
 *[SCSS]:                    Sassy CSS
 *[SDK]:                     Software Development Kit
@@ -109,14 +121,20 @@
 *[SEM]:                     Search Engine Marketing
 *[SEO]:                     Search Engine Optimization
 *[SFTP]:                    SSH File Transfer Protocol
+*[SGML]:                    Standard Generalized Markup Language
+*[SMACSS]:                  Scalable and Modular CSS
 *[SMB]:                     Server Message Block
+*[SMTP]:                    Simple Mail Transfer Protocol
 *[SPA]:                     Single-Page Application
 *[SQL]:                     Structured Query Language
 *[SSG]:                     Static Site Generator
 *[SSH]:                     Secure Shell
 *[SVG]:                     Scalable Vector Graphic
-*[TCP]:                     Transmission Control Protocol
+*[TCP/IP]:                  Transmission Control Protocol/Internet Protocol
 *[TDD]:                     Test-Driven Development
+*[TLD]:                     Top-Level Domain
+  *[ccTLD]:                 Country-Code Top-Level Domain
+  *[gTLD]:                  Generic Top-Level Domain
 *[TST]:                     Transaction-Safe Tables
 *[TSV]:                     Tab-Separated Values
 *[UDP]:                     User Datagram Protocol
@@ -140,6 +158,6 @@
 *[x64]:                     64-bit x86 Instruction Set
 *[x86]:                     32-bit x86 Instruction Set
 *[XHTML]:                   Extensible Hypertext Markup Language
-*[XP]:                      Extreme Programming
 *[XML]:                     Extensible Markup Language
+*[XP]:                      Extreme Programming
 *[YAML]:                    YAML Ain't Markup Language
