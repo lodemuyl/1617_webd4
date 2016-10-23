@@ -101,6 +101,7 @@
   [*&nbsp;*{:.fa.fa-firefox}Firefox]:                       https://www.mozilla.org/nl/firefox/new/
 [Firefox Developer Edition]:                                https://www.mozilla.org/nl/firefox/developer/
   [*&nbsp;*{:.fa.fa-firefox}Firefox Developer Edition]:     https://www.mozilla.org/nl/firefox/developer/
+[Flux]:                                                     https://facebook.github.io/flux/
 [FontAwesome]:                                              http://fontawesome.io
 [FOSRestBundle]:                                            https://symfony.com/doc/current/bundles/FOSRestBundle/index.html
 [Foundation]:                                               http://foundation.zurb.com
@@ -138,6 +139,7 @@
 [Ionic Native]:                                             http://ionicframework.com/docs/v2/native/
 [Ionic View]:                                               http://view.ionic.io
 [Ionic SDK]:                                                http://ionicframework.com
+[iOS]:                                                      http://www.apple.com/benl/ios/
 [Java]:                                                     https://java.com/nl/
 [JDK 8]:                                                    http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
 [Jekyll]:                                                   https://jekyllrb.com
@@ -195,9 +197,10 @@
 [Python]:                                                   Python
 [QuickTime Player]:                                         http://www.apple.com/benl/quicktime/
 [Rain.TPL]:                                                 http://www.raintpl.com
+[React]:                                                    https://facebook.github.io/react/
+[Reveal.js]:                                                http://lab.hakim.se/reveal-js/
 [Ruby]:                                                     https://www.ruby-lang.org/en/
 [Ruby on Rails]:                                            https://rubyonrails.org
-[Reveal.js]:                                                http://lab.hakim.se/reveal-js/
 [Sass]:                                                     http://sass-lang.com
 [SCSS]:                                                     http://sass-lang.com
 [SensioLabs]:                                               https://sensiolabs.com/en
@@ -242,6 +245,7 @@
 [W3C]:                                                      http://www.w3.org
 [WeTransfer]:                                               https://www.wetransfer.com
 [William C. Wake]:                                          http://xp123.com
+[Windows]:                                                  https://www.microsoft.com/nl-be/windows/
 [WordPress]:                                                https://nl.wordpress.org
   [*&nbsp;*{:.fa.fa-wordpress}WordPress]:                   https://nl.wordpress.org
 [WordPress.com]:                                            https://nl.wordpress.com
