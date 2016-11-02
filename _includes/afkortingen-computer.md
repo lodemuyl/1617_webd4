@@ -115,7 +115,7 @@
 *[PHP]:                     PHP: Hypertext Preprocessor
 *[PHP-FIG]:                 PHP Framework Interop Group
 *[PK]:                      Primary Key
-*[PNG]:                     Portable Network Graphic
+*[PNG]:                     Portable Network Graphics
 *[PSR]:                     PHP Standard Recommendations
 *[PWA]:                     Progressive Web App
 *[QR]:                      Quick Response
@@ -144,7 +144,7 @@
 *[SQL]:                     Structured Query Language
 *[SSG]:                     Static Site Generator
 *[SSH]:                     Secure Shell
-*[SVG]:                     Scalable Vector Graphic
+*[SVG]:                     Scalable Vector Graphics
 *[TCP/IP]:                  Transmission Control Protocol/Internet Protocol
 *[TDD]:                     Test-Driven Development
 *[TLD]:                     Top-Level Domain

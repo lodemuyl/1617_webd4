@@ -10,7 +10,7 @@
             <h1><a href="https://chamilo.arteveldehs.be/index.php?application=weblcms&course={{ site.data.syllabus.course.chamilo_id }}&tool=document&go=course_viewer">Uurrooster</a> <small>{{ article.chamilo }} bekend op Chamilo</small></h1>
         {% endif %}
         {% if point.milestone %}
-            <h1><a href="{{ point.milestone.uri | prepend: site.baseurl }}">{{ point.milestone.label }}</a><br><small>{{ point.milestone.small }}</small></h1>
+            <h1><a href="{{ point.milestone.uri | relative_url }}">{{ point.milestone.label }}</a><br><small>{{ point.milestone.small }}</small></h1>
         {% endif %}
         {% if point.content %}
             {{ point.content | markdownify }}

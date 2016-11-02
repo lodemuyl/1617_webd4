@@ -2,7 +2,7 @@
 
 Welkom op de digitale syllabus van {% if syllabus.type == 'OLOD' %}het OLOD{% elsif syllabus.type == 'MODULE' %}de module{% endif %} **{{ syllabus.title.short }}**!
 
-Deze syllabus bevat een introductie tot de te kennen werkwijze en technologieën, met daarnaast tips, koppelingen naar documentatie, artikels en tutorials die je op weg helpen bij de zelfstudie. Het is geenszins de bedoeling dat deze syllabus alle leerstof bevat, maar wel om je richting te geven bij zelfstudie.
+Deze syllabus bevat een introductie tot de te kennen werkwijze en technologieën, met daarnaast tips, koppelingen naar documentatie, artikelen en tutorials die je op weg helpen bij de zelfstudie. Het is zeker niet de bedoeling dat deze syllabus alle leerstof bevat, maar wel om je richting te geven bij zelfstudie.
 
 Veel studieplezier tijdens deze boeiende ontdekkingstocht!  
 De docenten {{ syllabus.title.short }}.

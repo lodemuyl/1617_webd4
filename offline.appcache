@@ -2,11 +2,11 @@
 ---
 CACHE MANIFEST
 # {{ site.time }}
-{{ '/index.html' | prepend: site.baseurl }}
-{{ '/css/main.css' | prepend: site.baseurl }}
-{{ '/css/bootstrap.css' | prepend: site.baseurl }}
-{{ '/images/logo_ahs_en.svg' | prepend: site.baseurl }}
-{{ '/js/main.js' | prepend: site.baseurl }}
+{{ '/index.html' | relative_url }}
+{{ '/css/main.css' | relative_url }}
+{{ '/css/bootstrap.css' | relative_url }}
+{{ '/images/logo_ahs_en.svg' | relative_url }}
+{{ '/js/main.js' | relative_url }}
 
 NETWORK:
 *
