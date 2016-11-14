@@ -20,6 +20,8 @@
 [Persona Sheets]:               http://www.gdm.gent/mod_wanm/workflow/define/persona-sheets/
 [Scenarios]:                    http://www.gdm.gent/mod_wanm/workflow/define/scenarios/
 [Design]:                       http://www.gdm.gent/mod_wanm/workflow/design/
+[Mockup]:                       http://www.gdm.gent/mod_wanm/workflow/design/mockup/
+[Prototype]:                    http://www.gdm.gent/mod_wanm/workflow/design/prototype/
 [Sitemap]:                      http://www.gdm.gent/mod_wanm/workflow/design/sitemap/
 [Style Guide]:                  http://www.gdm.gent/mod_wanm/workflow/design/style-guide/
 [Style Tiles]:                  http://www.gdm.gent/mod_wanm/workflow/design/style-tiles/
