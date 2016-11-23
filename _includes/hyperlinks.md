@@ -144,6 +144,7 @@
 [Java]:                                                     https://java.com/nl/
 [JDK 8]:                                                    http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
 [Jekyll]:                                                   https://jekyllrb.com
+[JetBrains Toolbox App]:                                    https://www.jetbrains.com/toolbox/app/
 [Jinja]:                                                    http://jinja.pocoo.org
 [Joomla]:                                                   https://www.joomla.org
   [*&nbsp;*{:.fa.fa-joomla}Joomla]:                         https://www.joomla.org
@@ -244,6 +245,7 @@
 [Visual Studio Code]:                                       https://code.visualstudio.com
 [vue.js]:                                                   http://vuejs.org
 [W3C]:                                                      http://www.w3.org
+[WebStorm]:                                                 https://www.jetbrains.com/webstorm
 [WeTransfer]:                                               https://www.wetransfer.com
 [Wikipedia]:                                                https://www.wikipedia.org
 [William C. Wake]:                                          http://xp123.com
@@ -255,6 +257,7 @@
 [XAMPP]:                                                    https://www.apachefriends.org/download.html
 [Xcode]:                                                    https://itunes.apple.com/us/app/xcode/id497799835?mt=12
 [XHTML]:                                                    http://www.w3.org/TR/xhtml1
+[XMind Free]:                                               http://www.xmind.net/download/
 [XML]:                                                      http://www.w3.org/XML
 [YAML]:                                                     http://yaml.org
 [YAML Lint]:                                                http://www.yamllint.com
