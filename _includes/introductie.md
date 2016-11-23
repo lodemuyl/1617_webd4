@@ -12,7 +12,7 @@ De docenten {{ syllabus.title.short }}.
 >
 > #### "Practice is the best of all instructors."
 >
-> &mdash; **Publilius Syrus** (schrijver en moralist)
+> &mdash; **Publilius Syrus** (Romeins schrijver en moralist)
 {:.card.card-block}
 
 | {{ syllabus.title.short }} | Informatie |
