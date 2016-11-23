@@ -7,6 +7,14 @@ Deze syllabus bevat een introductie tot de te kennen werkwijze en technologieën
 Veel studieplezier tijdens deze boeiende ontdekkingstocht!  
 De docenten {{ syllabus.title.short }}.
 
+> ##### Citaat :loudspeaker:
+> ---
+>
+> #### "Practice is the best of all instructors."
+>
+> &mdash; **Publilius Syrus** (schrijver en moralist)
+{:.card.card-block}
+
 | {{ syllabus.title.short }} | Informatie |
 |---------------------------:|:-----------|
 | {% if syllabus.type == 'OLOD' %}Opleidingsonderdeel{% elsif syllabus.type == 'MODULE' %}Module{% endif %} | {{ syllabus.title.full }} |
